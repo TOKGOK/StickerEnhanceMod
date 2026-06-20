@@ -1,0 +1,5 @@
+{
+  "dll": "StickerEnhanceMod.dll",
+  "entryClass": "StickerEnhanceMod.Main",
+  "displayName": "贴纸增强"
+}
